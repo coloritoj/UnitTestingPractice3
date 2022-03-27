@@ -1,0 +1,7 @@
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\color\source\repos\UnitTestingPractice3\Blackjack\obj\Debug\Blackjack.pdb
